@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
+    margin: 2vh;
 }
 
 .container {
@@ -24,6 +24,8 @@ body {
 
 h1 {
     color: rgb(215, 106, 55);
+    padding: 10px;
+    margin: 10px;
 }
 
 input[type="text"] {
